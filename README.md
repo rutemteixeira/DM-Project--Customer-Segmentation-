@@ -15,7 +15,7 @@ Part 2 --> Clustering approach and Profiling
 
 
 # Authors
-Oumayma Ben Hhfaiedh
-Ana Pedro Caleiro
-Rute Teixeira
-Érica Parracho
+- Oumayma Ben Hhfaiedh
+- Ana Pedro Caleiro
+- Rute Teixeira
+- Érica Parracho
