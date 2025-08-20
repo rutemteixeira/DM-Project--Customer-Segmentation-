@@ -12,3 +12,10 @@ Part 1 --> Exploratory Data Analysis.
 
 Part 2 --> Clustering approach and Profiling 
 - We divided features into two segments: behavior and preference. We tested the clustering of these perspectives using various models, including k-means, hierarchical clustering, Gaussian mixture, SOMs, DBSCAN, and mean-shift, and selected the best model for each segment based on R² which were SOMs in both perspectives. Finally, we merged the segments using hierarchical clustering, identifying four distinct customer groups that we further analysed to capture meaningful marketing insights.
+
+
+# Authors
+Oumayma Ben Hhfaiedh
+Ana Pedro Caleiro
+Rute Teixeira
+Érica Parracho
